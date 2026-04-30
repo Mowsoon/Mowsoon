@@ -18,6 +18,8 @@ My engineering philosophy is rooted in SRE principles: **Zero-Trust security, de
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/Openstack-%23ED1944.svg?style=for-the-badge&logo=openstack&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 **Networking & Security** ![Cisco](https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -27,6 +29,7 @@ My engineering philosophy is rooted in SRE principles: **Zero-Trust security, de
 
 ### 🔬 Featured Engineering Projects
 
+* 🛡️ **[Multi-Cloud SRE Infrastructure](https://github.com/Mowsoon/terraform-gcp-cloudrun-ado)**: Production-grade Google Cloud Platform infrastructure orchestrated via Azure DevOps and Terraform. Built on strict SRE principles including Zero-Trust IAM isolation, GCS state locking, and immutable CI/CD plan artifacts.
 * 🏗️ **[Enterprise Serverless API & DevOps Pipeline](https://github.com/Mowsoon/terraform-azure-fastapi-pipeline)**: A fully automated, Secretless (WIF) cloud infrastructure provisioned via Terraform, running a Python FastAPI microservice on Azure Container Apps with Zero-Downtime CI/CD.
 * 🌐 **[Large BGP Simulation](https://github.com/Mowsoon/Large-BGP-Simulation)**: Large-scale simulation of BGP routing protocols, demonstrating deep understanding of core internet routing mechanics.
 * ⚡ **[Go Asynchronous EDI Orchestrator]**: *(Coming Soon)* A high-performance concurrent engine written in Go to parse, process, and map complex B2B data exchanges (X12/AS2).
