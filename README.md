@@ -43,7 +43,3 @@ If you want to talk about distributed systems, Cloud-Native architecture, or jus
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alban-munari)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alban.munari@gmail.com)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mowsoon&show_icons=true&theme=transparent&hide_border=true" alt="Mowsoon's GitHub Stats" />
-</p>
