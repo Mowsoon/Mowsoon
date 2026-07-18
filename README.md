@@ -27,6 +27,8 @@ My engineering philosophy is rooted in SRE principles: **Zero-Trust security, de
 
 **Networking & Security** 
 
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Microsoft Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -35,10 +37,11 @@ My engineering philosophy is rooted in SRE principles: **Zero-Trust security, de
 
 ### 🔬 Featured Engineering Projects
 
+* ⚡ **[EDI X12 Orchestration Daemon](https://github.com/Mowsoon/edi-orchestrator)**: A high-performance concurrent Windows Service written in Go bridging a WMS and trading partners for B2B data exchanges over AS2. Implements an Event-Sourcing Ledger in SQL Server with pessimistic locking for safe concurrent order allocation[cite: 1]. X12 mapping logic is delegated to compiled C# subprocesses, and zero-downtime deployments are handled by Azure DevOps with automated rollback mechanisms.
+* ⏱️ **[FieldTime Platform](https://github.com/Mowsoon/fieldtime)**: A production-grade field time-tracking platform deployed entirely on Azure Container Apps via Terraform. Features a hexagonal Python/aiohttp backend with asynchronous punch ingestion via Azure Service Bus. Employs a secretless PostgreSQL architecture using pure Entra ID authentication and includes an offline-capable React PWA frontend built with Vite and XState.
 * 🛡️ **[Multi-Cloud SRE Infrastructure](https://github.com/Mowsoon/terraform-gcp-cloudrun-ado)**: Production-grade Google Cloud Platform infrastructure orchestrated via Azure DevOps and Terraform. Built on strict SRE principles including Zero-Trust IAM isolation, GCS state locking, and immutable CI/CD plan artifacts.
 * 🏗️ **[Enterprise Serverless API & DevOps Pipeline](https://github.com/Mowsoon/terraform-azure-fastapi-pipeline)**: A fully automated, Secretless (WIF) cloud infrastructure provisioned via Terraform, running a Python FastAPI microservice on Azure Container Apps with Zero-Downtime CI/CD.
 * 🌐 **[Large BGP Simulation](https://github.com/Mowsoon/Large-BGP-Simulation)**: Large-scale simulation of BGP routing protocols, demonstrating deep understanding of core internet routing mechanics.
-* ⚡ **[Go Asynchronous EDI Orchestrator]**: *(Coming Soon)* A high-performance concurrent engine written in Go to parse, process, and map complex B2B data exchanges (X12/AS2).
 * 📡 **[Wi-Fi Heatmaps (Python)](https://github.com/Mowsoon/heatmaps_Windows)**: Cross-platform tool using Scapy and Matplotlib to automate the generation of network coverage heatmaps.
 
 ---
