@@ -1,10 +1,17 @@
 # Hi there, I'm Alban 👋
 
-**SRE & Platform Engineer | Sorbonne University 🎓**
+**Systems Engineer @ AWS**
 
-I am a Software and Network Engineer currently completing my Master's degree in Networks and Systems at Sorbonne University. I specialize in the intersection of deep network infrastructure (BGP, DWDM) and modern distributed systems (Go, Kubernetes). 
+I work where networks meet systems: from the optical layer (DWDM) and Internet routing (BGP) up to Linux, Kubernetes and declarative cloud platforms. I enjoy hard environments, automation, and anything that can be described as code instead of clicked by hand.
+
+This GitHub is my workbench outside of work. It holds a few projects from my work-study years, and above all personal projects I build to go deeper into the stack.
 
 My engineering philosophy is rooted in SRE principles: **Zero-Trust security, declarative infrastructure, and automating toil away.**
+
+### 🚧 Currently Building
+
+* ❄️ **NixOS**: rebuilding my workstation as a fully declarative system, starting with my Neovim setup ([nixvim_config](https://github.com/Mowsoon/nixvim_config)).
+* ☁️ **Next up**: a hybrid cloud platform built on Cluster API, with AWS (CAPA) as the public side and Docker (CAPD) as the private side. It will be fully automated and operated from a graphical interface.
 
 ### 🛠️ Technical Arsenal
 
